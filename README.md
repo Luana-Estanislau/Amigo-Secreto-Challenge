@@ -38,7 +38,7 @@ Este es un pequeño proyecto web que permite a los usuarios agregar nombres a un
 
 1. **Clona el repositorio**
    ```sh
-   git clone https://github.com/Luana-Estanislau/AmigoSecreto-Challenge.git
+   git clone https://github.com/Luana-Estanislau/Amigo-Secreto-Challenge.git
    ```
 2. **Abre el archivo `index.html` en tu navegador.**
 3. **Agrega nombres en el campo de entrada y presiona "Añadir".**
