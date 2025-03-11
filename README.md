@@ -11,7 +11,8 @@ Este es un pequeño proyecto web que permite a los usuarios agregar nombres a un
 
 ## 📸 Capturas de Pantalla
 
-![Vista previa del proyecto](img/screenshot-amigoSecreto.png)
+![Vista previa del proyecto](https://raw.githubusercontent.com/Luana-Estanislau/AmigoSecreto-Challenge/main/img/screenshot-amigoSecreto.png)
+
 
 
 ## 📂 Estructura del Proyecto
