@@ -11,19 +11,21 @@ Este es un pequeño proyecto web que permite a los usuarios agregar nombres a un
 
 ## 📸 Capturas de Pantalla
 
-![Vista previa del proyecto](https://raw.githubusercontent.com/Luana-Estanislau/AmigoSecreto-Challenge/main/img/screenshot-amigoSecreto.png)
-
-
+![Vista previa del proyecto](img/screenshot-amigoSecreto.png)
 
 ## 📂 Estructura del Proyecto
 
 ```
 📂 amigo-secreto-challenge
-├── 📄 index.html       # Estructura de la página web
-├── 📄 style.css        # Estilos de la interfaz
-├── 📄 app.js          # Lógica del programa en JavaScript
-├── 📄 README.md       # Documentación del proyecto
-└── 📂 assets          # Imágenes y recursos
+├── 📂 assets            # Imágenes y recursos
+│   ├── amigo-secreto.png
+│   ├── play-circle-outline.png
+├── 📂 img               # Capturas de pantalla
+│   ├── screenshot-amigoSecreto.png
+├── 📄 index.html        # Estructura de la página web
+├── 📄 style.css         # Estilos de la interfaz
+├── 📄 app.js           # Lógica del programa en JavaScript
+├── 📄 README.md        # Documentación del proyecto
 ```
 
 ## 🔧 Tecnologías Utilizadas
@@ -54,7 +56,8 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y compartir
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**
+**Luana Henriquez Estanislau de Araujo**
+
 - [GitHub](https://github.com/Luana-Estanislau)
 - [LinkedIn](https://www.linkedin.com/in/luana-henriquez-estanislau-de-araujo)
 
