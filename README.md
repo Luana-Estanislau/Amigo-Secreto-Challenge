@@ -54,6 +54,6 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y compartir
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- [GitHub](https://github.com/tu-usuario)
-- [LinkedIn](https://www.linkedin.com/in/tu-nombre)
+- [GitHub](https://github.com/Luana-Estanislau)
+- [LinkedIn](https://www.linkedin.com/in/luana-henriquez-estanislau-de-araujo)
 
